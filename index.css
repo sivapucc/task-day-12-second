@@ -1,0 +1,33 @@
+.container{
+    margin: 0px;
+    height: 800px;
+}
+.form{
+    height: 800px;
+    background-color: aliceblue;
+}
+.dis{
+    text-align: center;
+    height: 800px;
+    background-color: lightblue; 
+    overflow: auto; 
+    padding: 30px; 
+}
+table th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 2px;
+    text-align: center;
+}
+.bord{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 2px;
+    text-align: center;
+}
+body{
+    background-color: lightgrey;
+}
+.h1{
+    text-decoration: underline;
+}
